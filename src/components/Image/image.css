@@ -1,0 +1,27 @@
+#mrd button{
+    font-size: 15px !important;
+    justify-content: center;
+    margin-left: 35%;
+}
+
+#mrd{
+    margin-left: 5%;
+    background-color: #fff;
+    font-family: 'Rajdhani', sans-serif;
+    width: 50%;
+
+}
+#mrd h2{
+    font-size: 20px !important;
+    margin-left: 8%;
+}
+#mrd h4{
+    color: #E5223A !important;
+    margin-left: 19%;
+    font-size: 40px;
+}
+#mrd #spin{
+    margin-top: -17%;
+    border: 1px solid #E5223A;
+    color: #E5223A;
+}
